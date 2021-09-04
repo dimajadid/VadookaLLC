@@ -1,6 +1,6 @@
 {
   "Guide App" : {
-    "ads_mode" : "admost",
+    "ads_mode" : "yandex",
     "interstitial_interval": 4,
     "native_interval": 4,
 
